@@ -1,0 +1,14 @@
+layout_spectrum: 0.7616259709466249
+typography_spectrum: 0.9492670220788568
+color:
+  brandStrength: 0.4489308160264045
+  lightness: 0.44802170526236296
+  saturation: 0.803415272384882
+  rhythmicContrast: 0.5291405650787055
+  brandColors:
+    - '#FFFFFF'
+    - '#FECE00'
+    - '#010101'
+    - '#878787'
+    - '#3F3F3F'
+name: Visionarea
